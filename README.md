@@ -2,7 +2,7 @@
 Currently studying fullstack development at Kodehode, Bergen.
 
 I'm pretty good at C# and a couple of game engines. 
-I also do well with designs, and most of the Adobe suite. My HTML/CSS might need some work, but... It's getting there. 
+I also do well with design, and most of the Adobe suite. My HTML/CSS might need some work, but... It's getting there. 
 
 As for other skills, I have a good bit of experience with audio and music, both performing and recording & mixing.
 
