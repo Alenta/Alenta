@@ -7,14 +7,9 @@ I also do well with designs, and most of the Adobe suite. My HTML/CSS might need
 As for other skills, I have a good bit of experience with audio and music, both performing and recording & mixing.
 
 ---
-<p align="center">
-Here are my preferred programs and languages
-<p/>
-
-<p align="center">
-  
+These are my preferred programs and languages
 [![My Skills](https://skillicons.dev/icons?i=ableton,cs,js,html,css,blender,ae,dotnet,figma,ps,unity,godot)](https://skillicons.dev)
-<p/>
+
 
 <!--
 
