@@ -1,4 +1,7 @@
-## Hi there 👋
+## Developer & Designer
+Currently studying fullstack development at Kodehode, Bergen.
+I'm pretty good at C# and some game engines. I also do well with designs, and most of the Adobe suite. 
+My HTML/CSS might need some work, but... It's getting there. 
 
 <!--
 **Alenta/Alenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
