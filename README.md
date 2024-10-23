@@ -9,6 +9,7 @@ As for other skills, I have a good bit of experience with audio and music, both 
 <p align="center">
 Here's my preferred programs and languages
 <p/>
+  
 [![My Skills](https://skillicons.dev/icons?i=ableton,cs,js,html,css,blender,ae,dotnet,figma,ps,unity,godot)](https://skillicons.dev)
 <!--
 
