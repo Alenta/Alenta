@@ -4,6 +4,7 @@ I'm pretty good at C# and some game engines. I also do well with designs, and mo
 My HTML/CSS might need some work, but... It's getting there. 
 
 As for other skills, I have a good bit of experience with audio and music, both performing and recording & mixing.
+
 ---
 <p align="center">
 Here's my preferred programs and languages
