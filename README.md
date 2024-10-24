@@ -5,7 +5,7 @@ I'm pretty good at C# and I have quite a bit of experience with Unity and Godot.
 I also do well with design, and most of the Adobe suite. My HTML/CSS might need some work, but... It's getting there. 
 
 I'm currently working on my frontend design skills, as well as backend server management through Kodehode.
-On my own, I'm always looking to incoroporate new techniques in my personal project. Right now, I'm working with Unreal Engine. 
+On my own, I'm always looking to incoroporate new techniques in my personal projects. Right now, I'm working with Unreal Engine. 
 
 As for other skills, I have a good bit of experience with audio and music, both performing and recording & mixing.
 I also love to draw and paint, both digital and traditional. 
