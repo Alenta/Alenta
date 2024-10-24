@@ -1,7 +1,7 @@
 ## Digital Developer & Designer
 Currently pursuing a Fullstack Development program at Kodehode, Bergen.
 
-I'm pretty good at C# and have quite a bit of experience with game development engines like Unity and Godot. I'm also well-versed in many design tools, including most of the Adobe Creative Suite. While my HTML/CSS skills are still developing, I am continuously improving and actively working on mastering these technologies.
+I'm pretty good at C# and have quite a bit of experience with game development engines like Unity and Godot. I'm also well-versed in many design tools, including most of the Adobe Creative Suite. While my HTML/CSS skills are still developing, I am getting better day by day!
 
 At Kodehode, I'm focusing on enhancing my frontend design skills and gaining deeper knowledge of backend server management. In my personal time, I explore new techniques and technologies, and I'm currently working with Unreal Engine on personal projects.
 
